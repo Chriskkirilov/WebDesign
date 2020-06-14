@@ -16,6 +16,8 @@
       0% {background-position: 0%}
       100% {background-position: 100%}
   }
+
+  
   
   /* Style the body */
   body {
@@ -151,9 +153,9 @@
 
 .wrapper h1{
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    padding: 2%;
+    padding: 5%;
   font-size: 52px;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
   text-align: center;
   color: white;
 }
