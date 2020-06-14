@@ -1,0 +1,42 @@
+@import "elements/navbar";
+
+
+* {
+  box-sizing: border-box; }
+
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+  background-color: #22223b; }
+
+
+
+/* Header/logo Title */
+.header {
+  color: #F2E9E4;
+  background-image: url("photo2.jpg");
+  font-size: 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 7%;
+  padding: 10%;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  background-attachment: fixed;
+}
+
+  
+
+/* Footer */
+.footer {
+
+    -webkit-box-flex: 0.5;
+    -ms-flex: 0.5;
+    flex: 0.5;
+    bottom: 0;
+    background: #ffffff;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
