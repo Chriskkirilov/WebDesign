@@ -129,7 +129,9 @@ body {
 ul {
   display: flex;
   flex-wrap: wrap;
-  margin: 1%; }
+  margin: 1%;
+padding:4%;
+}
 
 li {
   display: flex;
