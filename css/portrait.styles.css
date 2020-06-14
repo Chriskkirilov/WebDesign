@@ -75,7 +75,8 @@ body {
   text-align: left;
   transition: all ease-in-out 290ms; }
 
-.topnav a:hover, .dropdown:hover .dropbtn {
+.topnav a:hover,
+.dropdown:hover .dropbtn {
   background-color: #C9ADA7;
   border-bottom: 3px solid #0e0700;
   color: white;
@@ -89,7 +90,8 @@ body {
   display: block; }
 
 @media screen and (max-width: 600px) {
-  .topnav a:not(:first-child), .dropdown .dropbtn {
+  .topnav a:not(:first-child),
+  .dropdown .dropbtn {
     display: none; }
   .topnav a.icon {
     float: right;
@@ -130,8 +132,7 @@ ul {
   display: flex;
   flex-wrap: wrap;
   margin: 1%;
-padding:4%;
-}
+  padding: 4%; }
 
 li {
   display: flex;
@@ -149,7 +150,7 @@ img {
   object-fit: cover;
   vertical-align: middle;
   border-radius: 1vmin;
-  box-shadow: 5px  8px 10px #000000; }
+  box-shadow: 5px 8px 10px #000000; }
 
 @media (max-aspect-ratio: 1 / 1) {
   li {

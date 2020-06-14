@@ -89,7 +89,8 @@ body {
   text-align: left;
   transition: all ease-in-out 290ms; }
 
-.topnav a:hover, .dropdown:hover .dropbtn {
+.topnav a:hover,
+.dropdown:hover .dropbtn {
   background-color: #C9ADA7;
   border-bottom: 3px solid #0e0700;
   color: white;
@@ -103,7 +104,8 @@ body {
   display: block; }
 
 @media screen and (max-width: 600px) {
-  .topnav a:not(:first-child), .dropdown .dropbtn {
+  .topnav a:not(:first-child),
+  .dropdown .dropbtn {
     display: none; }
   .topnav a.icon {
     float: right;
@@ -142,7 +144,7 @@ body {
 
 .services {
   text-align: center;
-  margin-top: 5%; }
+  margin-top: 3%; }
 
 .services h1 {
   display: inline-block;
