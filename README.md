@@ -13,6 +13,7 @@ A WebDesign project from Kristiyan Kirilov, 11 grade, ELSYS
 ![alt text](https://github.com/Kristiyan17/WebDesign/blob/master/home.png)
 ![alt text](https://github.com/Kristiyan17/WebDesign/blob/master/about.png)
 ![alt text](https://github.com/Kristiyan17/WebDesign/blob/master/photos.png)
+### All of the photos are taken and edited by me
 ![alt text](https://github.com/Kristiyan17/WebDesign/blob/master/service.png)
 ![alt text](https://github.com/Kristiyan17/WebDesign/blob/master/social.png)
 ![alt text](https://github.com/Kristiyan17/WebDesign/blob/master/join.png)
